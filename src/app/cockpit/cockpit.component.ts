@@ -28,7 +28,7 @@ export class CockpitComponent implements OnInit, OnChanges {
   //newServerName = "";
   //newServerContent = "";
   @ViewChild("serverContentInput", { static: true })
-  serverContentInput: ElementRef;
+  serverContentInput!: ElementRef;
 
   constructor() {
     console.log('constructor called!');
