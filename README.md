@@ -1,4 +1,6 @@
-# AngularDataBinding
+# Practicing Property & Event Binding and View Encapsulation
+
+Time to practice the things you just learned! In this assignment, you're going to bind to your own events and properties and also use view encapsulation to style everything just the way it should look like.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
 
